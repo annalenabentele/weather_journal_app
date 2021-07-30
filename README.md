@@ -1,9 +1,9 @@
-# Weather-Journal App Project
+# Travel App (Capstone)
 
 ## Overview
-Basic project to demonstrate Web APIs and asynchronous web programming.
+Udacity Capstone project to demonstrate knowledge on web APIs and asynchronous web programming.
 
 ## Usage
-1. Start server with `node server.js`
-2. Open index.html in Browser
-3. Enter data in the form
+1. Start server with `npm start`
+2. Production: Run `npm run build`
+3. Development: Run `npm run dev`
